@@ -3,7 +3,7 @@ By Mahrang Saeed & Shifabanu Shaikh
 \
 Go to "https://github.com/a-moin/flexemg/tree/master/data"
 Download the raw training and test datasets for Subject 1 Session 1 from folders 
-001-Session1Trai and 001-Session1Test, respectively.  Each folder contains datasets for 10 trials.\
+001-Session1Train and 001-Session1Test, respectively.  Each folder contains datasets for 10 trials.\
 \
 Open Code folder inside the project folder.  Open Matlab folder.  Place contents of Matlab folder in your Matlab work directory.\
 Open Matlab. \
