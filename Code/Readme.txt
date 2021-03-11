@@ -10,7 +10,6 @@ Open Matlab.
 Open genfilter.m and run it.  This will generate your filter coefficients and save them in prefilter.mat.
 
 Repeat the following for each trial dataset to create your preprocessed dataset:
-
 Open Preprocessing.m and run it.
 The variable window3 contains the preprocessed signals from the 64 electrodes.  This will be used as your X variable in the Python code.
 The variable gestlabel_column contains the labels associated with the 5 different hand gestures.  This will be your Y variable in the Python code.
