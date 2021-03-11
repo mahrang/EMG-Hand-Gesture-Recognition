@@ -1,7 +1,7 @@
 Random Forest Classification of Hand Gestures
 By Mahrang Saeed & Shifabanu Shaikh
 
-Go to "https://github.com/a-moin/flexemg/tree/master/data"
+Go to https://github.com/a-moin/flexemg/tree/master/data
 Download the raw training and test datasets for Subject 1 Session 1 from folders 
 001-Session1Train and 001-Session1Test, respectively.  Each folder contains datasets for 10 trials.
 
